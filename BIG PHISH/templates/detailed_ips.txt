@@ -1,0 +1,24 @@
+=== CONNECTION DETAILS ===
+Session ID: 2804:868:d058:695:ec02:1a0e:d050:e425_2025-09-28_15
+IP Address: 2804:868:d058:695:ec02:1a0e:d050:e425
+User Agent: WhatsApp/2.23.20.0
+Date/Time: 28/09/2025 15:39:31
+Referer: Direct access
+Language: pt
+Method: GET
+Host: firefox-integration-specialty-itunes.trycloudflare.com
+URI: /
+=== END ===
+
+=== CONNECTION DETAILS ===
+Session ID: 2804:14c:bf6b:81b4:e0bb:6445:ac5a:6e5_2025-09-28_15
+IP Address: 2804:14c:bf6b:81b4:e0bb:6445:ac5a:6e5
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36
+Date/Time: 28/09/2025 15:39:34
+Referer: Direct access
+Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Method: GET
+Host: firefox-integration-specialty-itunes.trycloudflare.com
+URI: /
+=== END ===
+

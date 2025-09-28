@@ -1,0 +1,2 @@
+[2025-09-28 12:39:32] IP: 2804:868:d058:695:ec02:1a0e:d050:e425 | Browser: WhatsApp/2.23.20.0 | Date: 28/09/2025 15:39:31 | Referer: Direct access
+[2025-09-28 12:39:35] IP: 2804:14c:bf6b:81b4:e0bb:6445:ac5a:6e5 | Browser: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36 | Date: 28/09/2025 15:39:34 | Referer: Direct access
