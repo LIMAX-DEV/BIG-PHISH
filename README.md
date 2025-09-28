@@ -5,7 +5,7 @@ BIG PHISH - camphish Tool
 ESTE SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIAS DE QUALQUER TIPO. O AUTOR NÃO SE RESPONSABILIZA POR QUALQUER USO INAPROPRIADO, DANOS, PERDAS OU CONSEQUÊNCIAS LEGAIS DECORRENTES DO USO DESTE SOFTWARE.
 
 
-LINUX
+#LINUX
 
 sudo apt update && sudo apt upgrade -y
 
@@ -19,7 +19,7 @@ pip3 install flask requests pillow
 
 python3 main.py
 
-TERMUX 
+#TERMUX 
 
 pkg update && pkg upgrade
 
