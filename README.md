@@ -8,19 +8,29 @@ ESTE SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIAS DE QUAL
 LINUX
 
 sudo apt update && sudo apt upgrade -y
+
 sudo apt install python3 python3-pip git -y
+
 git clone https://github.com/RIP-MUSK/BIG-PHISH.git
+
 cd BIG-PHISH
+
 pip3 install flask requests pillow
+
 python3 main.py
 
 TERMUX 
 
 pkg update && pkg upgrade
+
 pkg install python git -y
+
 git clone https://github.com/RIP-MUSK/BIG-PHISH.git
+
 cd BIG-PHISH
+
 pip install flask requests pillow
+
 python main.py
 
 
