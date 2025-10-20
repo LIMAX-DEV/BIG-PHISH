@@ -63,7 +63,7 @@ class CamPhish:
         print("\033[1;95m    \033[1;97m██████╔╝██║╚██████╔╝    ██║     ██║  ██║██║███████║██║  ██║      \033[1;95m")
         print("\033[1;95m    \033[1;97m╚═════╝ ╚═╝ ╚═════╝     ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝      \033[1;95m")
         print("\033[1;95m                                                                              \033[1;95m")
-        print("\033[1;95m           \033[1;97m    C A M P H I S H   B Y   B I G         \033[1;95m      \033[1;95m")
+        print("\033[1;95m           \033[1;97m    C A M P H I S H   B Y   LIMAX         \033[1;95m      \033[1;95m")
         print("\033[1;95m                                                                               \033[1;95m")
         print("\033[1;95m                                                                                   \033[0m")
         print()
@@ -682,4 +682,5 @@ window.addEventListener('beforeunload', function() {
 
 if __name__ == "__main__":
     camphish = CamPhish()
+
     camphish.run()
